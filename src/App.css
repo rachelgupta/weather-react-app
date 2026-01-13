@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  max-width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input{
+  margin: 10px;
+  border: 0px;
+  font-size: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+} 
+
+.button{
+  border: 0px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 5 px;
+}
